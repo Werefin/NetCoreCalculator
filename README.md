@@ -1,2 +1,2 @@
 # NetCoreCalculator
-Simple web app in .NET Core 2.0 used as a test.
+Simple web app in .NET Core 2.0 built as a test.
